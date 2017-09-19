@@ -6,6 +6,7 @@ public class Sale {
 		// TODO Auto-generated method stub
          System.out.println("Sale-1");
          System.out.println("Sale-3");
+	 System.out.println("Sale-4");	
 	}
 
 }
